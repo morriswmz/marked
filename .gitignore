@@ -1,1 +1,4 @@
 node_modules/
+katex/
+highlight.js/
+viewer.html
